@@ -6,9 +6,9 @@ entries:
     short_description: Run a tokenization demo
     long_description: >-
       This project show an example of how to use Bluemetrix Tokenization on the data being proceed on CML
-  tags:
-    - Tokenization
-    - Data Security
-    - Data Compliance
-  git_url: "https://gitlab.com/leonardo.dias2/amp_test"
-  is_prototype: true
+    tags:
+      - Tokenization
+      - Data Security
+      - Data Compliance
+    git_url: "https://gitlab.com/leonardo.dias2/amp_test"
+    is_prototype: true
