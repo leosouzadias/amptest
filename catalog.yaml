@@ -5,7 +5,7 @@ entries:
     label: tokenization
     short_description: Run a tokenization demo
     long_description: >-
-    This project show an example of how to use Bluemetrix Tokenization on the data being proceed on CML
+      This project show an example of how to use Bluemetrix Tokenization on the data being proceed on CML
   tags:
     - Tokenization
     - Data Security
