@@ -10,5 +10,5 @@ entries:
       - Tokenization
       - Data Security
       - Data Compliance
-    git_url: "https://gitlab.com/leonardo.dias2/amp_test"
+    git_url: "git@gitlab.com:leonardo.dias2/amp_test.git"
     is_prototype: true
