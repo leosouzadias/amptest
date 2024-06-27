@@ -10,5 +10,7 @@ entries:
       - Tokenization
       - Data Security
       - Data Compliance
-    git_url: "git@gitlab.com:leonardo.dias2/amp_test.git"
+    git_url: "git@gitlab.com:leonardo.dias2/cml_tokenization_amp.git"
+    image_path: >-
+      https://raw.githubusercontent.com/leosouzadias/amptest/main/image.jpg
     is_prototype: true
